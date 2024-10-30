@@ -1,0 +1,12 @@
+funtional n non functional
+SDLC,STLC,defect life cycle,black box white box ,non fuctional testing kashi hote.
+api code qustion
+bug life cycle
+project qustion:domain n client,project work
+daily work routine
+daily standup meeting.
+all jira tool
+test case,induction means company indetails
+sql order by n group by
+login test cases 
+
